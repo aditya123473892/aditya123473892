@@ -1,8 +1,8 @@
 - 👋 Hi, I’m ADITYA THAKUR
 - 👀 I’m interested in OPEN SOURCE 
-- 🌱 I’m currently learning REACT JS
-- 💞️ I’m looking to collaborate on 
-- 📫 How to reach me INSTAGRAM - aditya597k
+- 🌱 I’m currently learning MERN stack
+  
+
 - 
 
 <!---
