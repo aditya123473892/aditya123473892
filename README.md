@@ -5,7 +5,7 @@
 🔭 Currently working on **MERN Stack Projects**  
 🌱 Learning **Next.js, Tailwind CSS & Advanced DSA**  
 💬 Ask me about **React.js, Node.js, MongoDB, SQL, Express.js**  
-📄 [Check out my Resume](#) *(Add your resume link here)*  
+
 ⚡ Fun fact: **Code. Debug. Repeat.**  
 
 ---
